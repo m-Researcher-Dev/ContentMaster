@@ -126,6 +126,6 @@ This project demonstrates professional skills in Python, async programming, data
 
 ---
 
-**Created by / ساخته شده توسط:** [Your Name]  
+**Created by / ساخته شده توسط:** [https://github.com/m-Researcher-Dev/]  
 **Platform / پلتفرم:** Rubika (similar to Telegram)  
 **Purpose / هدف:** Portfolio demonstration – complete channel management and AI caption bot / نمایش نمونه‌کار – ربات کامل مدیریت کانال و کپشن‌نویس هوشمند
